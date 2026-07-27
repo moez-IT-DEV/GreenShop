@@ -2,9 +2,9 @@
 
 > A fully customized PrestaShop 1.6 solution — multilingual, feature‑rich, and performance‑optimized.
 
-## 🎥 Project Demo
+## 🎥 Project Video
 
-[![Demo Video](https://img.shields.io/badge/Watch_Demo-FF0000?style=for-the-badge&logo=video&logoColor=white)](https://github.com/moez-IT-DEV/GreenShop/releases/download/v1.0.0/demo.mp4)
+[<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/video.svg" width="40" height="40" style="vertical-align:middle; margin-right:10px;"> Watch Full Demo](https://github.com/moez-IT-DEV/GreenShop/releases/download/v1.0.0/demo.mp4)
 
 
 
