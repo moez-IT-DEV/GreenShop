@@ -1,4 +1,4 @@
-# 🛒 PrestaShop Custom E-Commerce Platform
+# 🛒 PrestaShop Custom E-Commerce Platform Green Shop
 
 > A fully customized PrestaShop 1.6 solution — multilingual, feature‑rich, and performance‑optimized.
 
@@ -6,14 +6,14 @@
 
 [![Watch the demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
 
-> ⏱️ **2:30 min** – Full walkthrough of frontend, backend, custom modules, and multilingual capabilities.
+
 
 ## ✨ What I Built
 
 ### 🎨 Frontend Customization
 - Fully redesigned homepage with custom slider & featured products
 - Responsive layout compatible with mobile/tablet
-- Multi‑currency & multi‑language (AR, FR, EN...)
+- Multi‑currency & multi‑language (AR,EN...)
 
 ### ⚙️ Backend Customization
 - Custom admin panel with enhanced order management
@@ -43,12 +43,7 @@
 - ✅ Frontend: Complete
 - ✅ Backend: Complete
 - ✅ Modules: 5 custom modules added
-- ✅ Multilingual: 3 languages configured
-
-## 📬 Contact
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/moez-messaoudi)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/moez-IT-DEV)
+- ✅ Multilingual: 6 languages configured
 
 ---
 
