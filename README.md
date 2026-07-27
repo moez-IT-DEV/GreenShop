@@ -4,7 +4,7 @@
 
 ## 🎥 Project Demo
 
-[![Watch the demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![Demo Video](https://img.shields.io/badge/Watch_Demo-FF0000?style=for-the-badge&logo=video&logoColor=white)](https://github.com/moez-IT-DEV/GreenShop/releases/download/v1.0.0/demo.mp4)
 
 
 
