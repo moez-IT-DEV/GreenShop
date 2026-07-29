@@ -1,4 +1,5 @@
-# 🛒 PrestaShop Custom E-Commerce Platform Green Shop
+# 🛒 PrestaShop Custom E-Commerce Platform
+#  Green Shop
 
 > A fully customized PrestaShop 1.6 solution — multilingual, feature‑rich, and performance‑optimized.
 
