@@ -2,11 +2,6 @@
 
 > A fully customized PrestaShop 1.6 solution — multilingual, feature‑rich, and performance‑optimized.
 
-## 🎥 Project Video
-
-[<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/video.svg" width="30" height="30" style="vertical-align:middle; margin-right:10px;"> Watch Full Video](https://github.com/moez-IT-DEV/GreenShop/releases/download/v1.0.0/video1.mp4)
-
-
 
 ## ✨ What I Built
 
